@@ -7,7 +7,7 @@ Summary:	Low-level bindings to the zlib package
 Summary(pl.UTF-8):	Niskopoziomowe wiązania do pakietu zlib
 Name:		ghc-%{pkgname}
 Version:	0.1.1.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/zlib-bindings
